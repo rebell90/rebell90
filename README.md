@@ -55,9 +55,9 @@ I love turning complex workflows into elegant, efficient apps. I’m also explor
 Before specializing in backend development, I worked in **data science**, especially in **bioinformatics** and **marketing analytics**.
 
 ### 🧪 Notable Repos
-- 🧬 `scRNAseq-pipeline`: R-based pipeline for pre-processing, normalization, clustering, and visualization of single-cell RNA-seq data  
-- 🔍 `marker-gene-visualization`: Interactive plots for gene expression across cell types using `Seurat`, `ggplot2`, and `dplyr`
-- 📊 `marketing-insights`: Python and R scripts for customer segmentation, predictive modeling, and A/B test analysis
+- 🧬 `Transcriptome_COVID_Control_GSE176480`: GEO data on COVID9
+- 🔍 `scRNASeq_COVID19`: Single cell RNA Seq on COVID data
+- 📊 `Juvenile_Arthritis_RNAseq`: GEO Data analyzing Juvenile Arthritis (pursued this project trying to understand my daughter's diagnosis - around 2020)
 
 These projects shaped my love for automation, clean data flows, and repeatable analysis — which eventually led me to full-stack dev.
 
